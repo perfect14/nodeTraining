@@ -1,8 +1,15 @@
 body{
-    background-color: aqua;
-    text-align: center;
-    font-size: 400;
-    margin: 50 50 30 20;
-    font-weight: bolder;
+    background-image: url(images/back7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* background-color:#ee82ee; */
+    color:red ;
+    font-size: larger;
+    
 }
+a{
+    font-size: 50px;
+}
+
+
 
